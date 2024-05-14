@@ -1,0 +1,28 @@
+/*
+============================================================================================================
+ +
+ +
+ + [ @ ] Software Licenses
+ +
+ +
+============================================================================================================
+*/
+
+***************************
+\
+- Software License :: Vagos M.C.
+/
+***************************
+
+Vagos - Software License :: Vagos M.C. Software License
+
+(C)  G.C. Johnson's Works 2000 - Present-Day
+
+SOFTWARE PROJECT REPOSITORIES
+https://www.SourceForge.net/project/cerberuscms2
+https://www.GITHub.com/CerberusCMS2
+
+DEMONSTRATION SERVERS :: FREE
+https://CerberusCMS2.SourceForge.net
+============================================================================================================================================================
+This entire software project under the name Vagos is owned entirely by the Vagos Motorcycle Club.
