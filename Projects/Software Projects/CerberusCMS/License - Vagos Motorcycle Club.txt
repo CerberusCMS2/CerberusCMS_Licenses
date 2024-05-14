@@ -25,4 +25,4 @@ https://www.GITHub.com/CerberusCMS2
 DEMONSTRATION SERVERS :: FREE
 https://CerberusCMS2.SourceForge.net
 ============================================================================================================================================================
-This entire software project under the name Vagos C.M. including the programming code is owned entirely by the Vagos Motorcycle Club of Southern California, United States.
+This entire software project under the name Vagos Motorcycle Club C.M. including the programming code is owned entirely by the Vagos Motorcycle Club of Southern California, United States.
