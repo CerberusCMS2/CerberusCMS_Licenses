@@ -1,0 +1,28 @@
+/*
+============================================================================================================
+ +
+ +
+ + [ @ ] Software Licenses
+ +
+ +
+============================================================================================================
+*/
+
+***************************
+\
+- Software License :: N.L.R.
+/
+***************************
+
+N.L.R. - Software License :: N.L.R. Software License
+
+(C)  G.C. Johnson's Works 2000 - Present-Day
+
+SOFTWARE PROJECT REPOSITORIES
+https://www.SourceForge.net/project/cerberuscms2
+https://www.GITHub.com/CerberusCMS2
+
+DEMONSTRATION SERVERS :: FREE
+https://CerberusCMS2.SourceForge.net
+============================================================================================================================================================
+This entire software project under the name N.L.R. is owned entirely by the N.L.R.
